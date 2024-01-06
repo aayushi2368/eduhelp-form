@@ -1,0 +1,16 @@
+div{
+  padding-left:10%;
+}
+h1{
+  font-family:Montserrat-bold;
+}
+button{
+  background-color:#00FFFF;
+  width:150px;
+  height:40px;
+  border:2px solid black;
+  border-radius:40px;
+}
+body{
+  background-color:#A9A9A9;
+}
